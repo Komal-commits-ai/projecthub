@@ -1,10 +1,8 @@
-//limitation of this project :does not update the quantity in the file only maintain in memory
 #include<iostream>
 #include<string>
 #include<fstream>
 #include<vector>
 using namespace std;
-int i = 0;
 class Item
 {
 public:
